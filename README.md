@@ -1,2 +1,7 @@
 # AtlasMap-Camel-Starter
-Hack of AltasMap/Camel demo; start on performance measurements but JSON is proprietary and not included
+Hack of AltasMap/Camel demo
+
+This is a (working) start on some performance measurements. 
+
+Only uploaded to git to simplify transfering files to my VM which is behind firewalls/proxys.
+
